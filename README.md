@@ -1,1 +1,1 @@
-# simply_flask_tutorial
+# simple_flask_tutorial
